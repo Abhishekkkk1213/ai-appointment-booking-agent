@@ -34,7 +34,8 @@ This project demonstrates practical implementation of AI-driven automation using
 ---
 
 ## 🔗 Live Demo
-👉 Paste your agent link here  
+👉 [Try the AI Appointment Agent](https://chatwidget.bot/mobile_agent.html?companyId=698b8a54318f15cc75373fe5&botId=BOTID1770752682019&agentId=698b8a54318f15cc75373fe5)
+
 
 ---
 
